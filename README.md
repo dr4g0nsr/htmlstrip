@@ -23,6 +23,7 @@ func main() {
 }
 ```
 
+Tag to v1.0
 
 ### OUTPUT:
 `text1text2text3`
